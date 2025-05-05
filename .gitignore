@@ -1,0 +1,24 @@
+
+# Ignore build and backup folders
+build/
+dist/
+backup/
+
+# Ignore node_modules (common in web projects)
+node_modules/
+
+# Ignore any folder named "temp" anywhere in the project
+temp/
+# Ignore node dependencies
+node_modules/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore VSCode config
+.vscode/
+
+# Ignore log files
+*.log
+
